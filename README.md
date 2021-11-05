@@ -1,8 +1,11 @@
 # science
 
 ## Physics
-###  Transport property
-#### [Thermal conductivity](thermal_conductivity.md)
+### Statistical Mechanics
+#### [Thermodynamics functions](thermodynamic_functions.md)
+####  Transport property
+##### [Thermal conductivity](thermal_conductivity.md)
+
 ###  Fluid Mechanics
 #### [Navier Stokes equation](navier_stokes_equation.md)
 ### Electomagnatism
@@ -16,6 +19,3 @@
 ###  Quantum computing
 
 ## Mathematics
-### Statistical analysis
-
-[testmermaid](testmermaid.md)
