@@ -5,7 +5,6 @@ bookCollapseSection: true
 # Education
 
 ## Physics
-[testmermaid](testmermaid.md)
 ### Statistical Mechanics
 #### [Thermodynamic functions](thermodynamic_functions.md)
 ###  Transport property

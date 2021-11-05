@@ -2,7 +2,6 @@
 
 ## Physics
 
-[testmermaid](testmermaid.md)
 ### Statistical Mechanics
 #### [Thermodynamics functions](thermodynamic_functions.md)
 ####  Transport property
