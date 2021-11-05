@@ -14,9 +14,9 @@ A--->B
 ```mermaid
 graph LR
 subgraph Grand potential
-EC["&Omega; = F - &mu; N [C]"]--->EIII["&Omega; = -PV [III]"]
+EC[" = F -  N [C]"]--->EIII[" = -PV [III]"]
 EB["G = F + PV [B]"]--->EIII
-EIIdash["G = &mu;N [II] or F = -PV + &mu; N [II']"]--->EIII
+EIIdash["G = N [II] or F = -PV + N [II']"]--->EIII
 end
 ```
 
