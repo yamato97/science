@@ -19,3 +19,6 @@
 ###  Quantum computing
 
 ## Mathematics
+
+### Statistical analysis
+#### [confidence interval](confidence_interval.md)
