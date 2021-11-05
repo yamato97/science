@@ -56,7 +56,7 @@ f_x = \left [p\left(x-\frac{dx}{2}, y, z \right) - p\left(x+\frac{dx}{2}, y, z \
 $$
 Likewise, we obtain $f_y=-\frac{\partial p}{\partial y}dxdydz$ and $f_z=-\frac{\partial p}{\partial z}dxdydz$ for $y$- and $z$-component, respectively. Thus, the total force acting on this volume element per unit volume becomes $-\nabla p(x, y, z)$.
 
-![NS.svg](/tips/NS.svg)
+![NS.svg](img/NS.svg)
 
 ## Viscosity term
 
@@ -66,7 +66,7 @@ $$
 $$
 where each of $(i, j)$ represents either of $(x, y, z)$. For example, $\tau_{xx}$ ($\tau_{xy}$) represents the $x$($y$)-compont of the force acting on the face parpendicular to the $x$-axis per unit area. Thus, the contributions to the $x$-component of the force, $f_x$, acting on the left and right surfaces are  $- \left(\tau_{xx}- \frac{1}{2}\frac{\partial \tau_{xx}}{\partial x}dx \right) \times dydz $  and   $\left(\tau_{xx} + \frac{1}{2}\frac{\partial \tau_{xx}}{\partial x}dx \right) \times dydz $, respectively (see below). Thus, the summation of these two terms becomes  $\frac{\partial \tau_{xx}}{\partial x}dx \times dydz $.　Likewise, the contributions from the front and back surfaces to $f_x$ are  $- \left( \tau_{yx} - \frac{1}{2}\frac{\partial \tau_{yx}}{\partial y}dy \right) \times dzdx $  and  $\left( \tau_{yx} + \frac{1}{2}\frac{\partial \tau_{yx}}{\partial y}dy \right) \times dzdx $ , and those from the top and bottom surfaces to $f_x$ are $ \left(\tau_{zx}+ \frac{1}{2}\frac{\partial \tau_{xz}}{\partial z}dz \right) \times dydx $  and   $-\left(\tau_{zx} - \frac{1}{2}\frac{\partial \tau_{zx}}{\partial z}dz \right) \times dydx $, respectively.  
 
-![NS-viscosity](/tips/NS-viscosity.svg)
+![NS-viscosity](img/NS-viscosity.svg)
 
 As a result,
 $$

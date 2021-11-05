@@ -249,27 +249,27 @@ $$
 
 (I) L.H.S. of the first line:
 
-![double integral 0](/tips/double_integral_0.svg)
+![double integral 0](img/double_integral_0.svg)
 
 (II) the first term of R.H.S. of the first line:
 
-![double integral 1](/tips/double_integral_1.svg)
+![double integral 1](img/double_integral_1.svg)
 
 (III) the second term of R.H.S. of the first line:
 
-![double integral 2](/tips/double_integral_2.svg)
+![double integral 2](img/double_integral_2.svg)
 
 (IV) the second term of R.H.S. of the second line:
 
-![double integral 3](/tips/double_integral_3.svg)
+![double integral 3](img/double_integral_3.svg)
 
 (V) R.H.S. of the sixth line:
 
-![double integral 4](/tips/double_integral_4.svg)
+![double integral 4](img/double_integral_4.svg)
 
 (VI) R.H.S. of the seventh line:
 
-![double integral 5](/tips/double_integral_5.svg)
+![double integral 5](img/double_integral_5.svg)
 
 We swapped the integration variable $t' \leftrightarrow t''$ in the second term of R.H.S. of the third line, and used the time reversibility of $\phi(\tau)$ in R.H.S. of the fourth line. We changed the variable of integration from $t''$ to $\tau$ from the fourth to the fifth line. Note that $t'$ and $\tau$ are independent variables and therefore $\phi(\tau)$ does not depend on $t'$. 
 
