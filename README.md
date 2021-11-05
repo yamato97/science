@@ -17,3 +17,5 @@
 
 ## Mathematics
 ### Statistical analysis
+
+[testmermaid](testmermaid.md)
