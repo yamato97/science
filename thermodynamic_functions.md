@@ -3,6 +3,13 @@ mermaid: true
 ---
 # Thermodynamic functions
 
+test
+
+```mermaid
+graph LR
+A--->B
+```
+
 ```mermaid
 graph LR
 subgraph Grand potential
