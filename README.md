@@ -2,6 +2,8 @@
 
 ## Physics
 
+[grand_canonical](grand_canonical.md)
+
 ### Statistical Mechanics
 #### [Thermodynamics functions](thermodynamic_functions.md)
 ####  Transport property
