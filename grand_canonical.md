@@ -5,6 +5,6 @@ mermaid: true
 
 ```mermaid
 graph LR
-NodeIdName[("A<sub>2</sub>")]
+NodeIdName[("<sup>alpha</sup>ABCDEFG<sub>2</sub>")]
 ```
 
