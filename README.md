@@ -2,9 +2,8 @@
 
 ## Physics
 
-[grand_canonical](grand_canonical.md)
-
 ### Statistical Mechanics
+#### [Grand canonical ensemble](grand_canonical.md)
 #### [Thermodynamics functions](thermodynamic_functions.md)
 ####  Transport property
 ##### [Thermal conductivity](thermal_conductivity.md)
