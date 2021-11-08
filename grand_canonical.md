@@ -9,8 +9,8 @@ Ed. T. Yamato
 
 
 ```mermaid
-graph LR "E_T, N_T"
-subgraph
+graph LR 
+subgraph "E_T, N_T"
 Environemnt[E_T - E_i, N_T - N_i]-->||ParitialSystem[E_i, N_i]
 end
 ```
