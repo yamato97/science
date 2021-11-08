@@ -8,5 +8,5 @@ T. Yamato@NU
 
 ```mermaid
 graph LR
-NodeIdName[("this <sub>2</sub> is a pen.")]
+NodeIdName[("this<sub>2</sub> is a pen.")]
 ```
