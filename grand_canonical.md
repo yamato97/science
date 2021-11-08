@@ -5,7 +5,7 @@ mathjax: true
 
 Nov. 8, 2021
 
-Note by Prof. Kawasaki based on Callen
+Note by Prof. Kawasaki based on Callen, "Thermodynamics and Introduction to Thermostatistics"
 
 Ed. T. Yamato
 
@@ -24,7 +24,7 @@ P_i &=& \frac{W(E_T - E_i, N_T - N_i)}{W(E_T, N_T)} \\
 P_i &=& \frac{e^{\frac{1}{k_B T}(U-E_i)}e^{\frac{-\mu}{k_B T}(N-N_i)}}{e^{\frac{1}{k_B}S(U,N)}} \\
 &=& e^{\beta(U-ST-\mu N)}e^{-\beta(E_i - \mu N)} \\
 &=& e^{\beta \Omega}e^{- \beta(E_i - \mu N_i)} \\
-&=& \frac{1}{\Xi} e^{- \beta (E_i - \mu N_i)} (\Xi: \; \rm{grand\; canonical\; ensemble})\\
+&=& \frac{1}{\Xi} e^{- \beta (E_i - \mu N_i)} \; (\Xi: \; \rm{grand\; canonical\; ensemble})\\
 \therefore \; \Xi = e^{- \beta \Omega} &\Leftrightarrow& \Omega = -k_B T \ln \Xi
 
 \end{eqnarray}
