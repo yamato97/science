@@ -9,9 +9,9 @@ Ed. T. Yamato
 
 
 ```mermaid
-graph LR E^tot, N^tot
+graph LR "E_T, N_T"
 subgraph
-Environemnt[E^tot - E_i, N^tot - N_i]-->||ParitialSystem[E_i, N_i]
+Environemnt[E_T - E_i, N_T - N_i]-->||ParitialSystem[E_i, N_i]
 end
 ```
 
