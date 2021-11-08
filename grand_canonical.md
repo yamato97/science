@@ -10,8 +10,8 @@ Ed. T. Yamato
 
 ```mermaid
 graph LR 
-  subgraph "E_T, N_T"
-    Environemnt["E_T - E_i, N_T - N_i"]-->|"T, &mu;"|ParitialSystem[E_i, N_i]
+  subgraph "E_T"
+    Env["E_T - E_i, N_T - N_i"]-->Part[E_i, N_i]
   end
 ```
 
