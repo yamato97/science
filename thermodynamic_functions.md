@@ -34,5 +34,5 @@ end
 Proof of Gibbs-Duhem 
 
 $$
-\left(\frac{\partial G}{\partial {\lambda N}} \frac{\partial (\lambda N)}{\partial \lambda}\right)_{\lambda=1} = \mu N = G(T, P, N)
+\left(\frac{\partial G}{\partial {(\lambda N)}} \frac{\partial (\lambda N)}{\partial \lambda}\right)_{\lambda=1} = \mu N = G(T, P, N)
 $$
