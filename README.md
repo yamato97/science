@@ -5,6 +5,8 @@
 ### Statistical Mechanics
 #### [Grand canonical ensemble](grand_canonical.md)
 #### [Thermodynamics functions](thermodynamic_functions.md)
+
+#### [Density of states](dos.md)
 ####  Transport property
 ##### [Thermal conductivity](thermal_conductivity.md)
 
