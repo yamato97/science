@@ -7,6 +7,8 @@ bookCollapseSection: true
 ## Physics
 ### Statistical Mechanics
 #### [Thermodynamic functions](thermodynamic_functions.md)
+
+#### [Density of states](dos.md)
 ###  Transport property
 #### [Thermal conductivity](thermal_conductivity)
 ###  Fluid Mechanics
