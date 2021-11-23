@@ -1,46 +1,64 @@
 ---
 mathjax: true
+mermaid: true
 ---
 
 # Density of States
 
 Nov. 22, 2021
+Nov. 23, 2021
+
 T. Yamato@NU
 
-## Phase space (p, q)
+## Particle in a square well
 
-The density of states, DOS, describes the number density of possible available states as a function of energy. According to the uncertainty principle, $\Delta p \Delta q > h$, where $h$ is Plank's constant. Let us consider a free particle with energy $\epsilon = \frac{p^2}{2m}$ moving in 3D space of volume $V$. Then, the number of states can be obtained by dividing the (available phase space volume) by $h^3$. Note that the phase space volume is obtained by the product of (momentum space volume) and (real space volume). 
+Let us consider a particle confined in one-dimensional space, $x=[0, L]$, with an infinite square well potential. 
 
-Since this Hamiltonian does not depend on $\rm \bf{q}$, the avilable real space volume for this particle is simply $V$. On the other hand, we need to consider the $p$-dependence of $\epsilon = p^2 / 2m$ for the momentum space. The volume of the spherical shell of radius $p$ to $p + dp$ is $4 \pi p^2 dp$ in the momentum space. Using $d\epsilon = \frac{p}{m}dp$, we obtain the density of states as 
+<img src="img/1Dwell-2.svg" title="1D square well potential">
+
+We can easily get the eigenstates and eigenenergies as 
 $$
-D(\epsilon) = \frac{V}{h^3}\cdot 4\pi p^2 dp = \frac{Vm^{3/2}}{\sqrt 2 \pi^2 \hbar^3}\epsilon^{1/2} \tag{1}
-$$
-
-## Phase space (k, q)
-
-We can reproduce the previous result Eq (1) in a similar manner using $p = \hbar k$.
-
-## Particle confined in a square well
-
-Let us consider a particle confined in one-dimensional space, $x=[0, L]$, with an infinite square well potential. We can easily get the eigenstates and eigenenergies as 
-$$
-\Psi (x) = \sqrt{\frac{２}{L}}\sin\left(\frac{n\pi x}{L}\right), \;(n=1, 2, 3, \cdots)
+\begin{align}
+\Psi (x) &= \sqrt{\frac{２}{L}}\sin\left(\frac{n\pi x}{L}\right), \\ \epsilon &= \frac{n^2 \pi^2 \hbar^2}{2mL^2} \;(n=1, 2, 3, \cdots) \tag{1}
+\end{align}
 $$  
-and $E = \frac{n^2 \pi^2 \hbar^2}{2mL^2}$, respectively. If you extend this to three dimsions, then the energy eigenvalues becomes, 
+
+If you extend this to three dimensions, then the energy eigenvalues become, 
 $$
-E = \frac{\pi^2 \hbar^2}{2mL^2}(n_x^2+n_y^2+n_z^2).
+\epsilon = \frac{\pi^2 \hbar^2}{2mL^2}(n_x^2+n_y^2+n_z^2). \tag{2}
 $$
 We can rewrite this as
 $$
-(n_x^2 + n_y^2 + n_z^2) = \frac{2mEL^2}{\pi^2 \hbar^2}.
+(n_x^2 + n_y^2 + n_z^2) = \frac{2m\epsilon L^2}{\pi^2 \hbar^2}. \tag{3}
+$$
+Let us consider the state space $(n_x, n_y, n_z)$. The L.H.S. of (Eq. 3) represents the squared distance, $r^2$, of the grid point $(n_x, n_y, n_z)$ from the origin. In this space, we find one grid point per each cubic element of volume 1 (= 1 x 1 x 1). Accordingly, the one-eighth of the volume of the sphere of radius $r$ represents the number of states, $N(\epsilon)$, with energy $< \epsilon$. Note that that the factor of 1/8 is needed because only positive integers $n_x, n_y, n_z$, are allowed.
+$$
+N(\epsilon) = \frac{1}{8}\frac{4\pi}{3}\left( \frac{2m \epsilon L^2}{\pi^2 \hbar^2} \right)^{3/2} \tag{4}
+$$
+Then the density of states, $D(\epsilon)$, is obtained by taking the derivative of $N(\epsilon)$ with respect to $\epsilon$, where $V=L^3$ is the real space volume of this system.
+$$
+D(\epsilon) = \frac{Vm^{3/2}}{\sqrt 2 \pi^2 \hbar^3}\epsilon^{1/2} \tag{5}
 $$
 
-The volume of the number space $(n_x, n_y, n_z)$ available for the system corresponds to the number of states because the allowed positions in the number space is only those at grid points. The number of available grid points is obtained by dividing the volume of availale space by the volume of the cubic element with a volume of 1 x 1 x 1 = 1. 
+## Phase space (p, q)
 
-We define the total number of states, $N(E)$, with energies less than $E$. Then we can get $D(E)$ by taking the derivative of $N(E)$ with respect to $E$.
+Another approach is possible to obtain the density of states for the system we considered above based on the phase space volume, which is represented as the product of (real space volume) and (momentum space volume). Due to the uncertainty principle, we are not allowed to tell the exact location of the state, $(p, q)$, in the phase space. Let us assume that this resolution limit be $\eta$, where $\eta$ represents the volume of the smallest cell "visible" in the phase space. Then, we can count the number of possible states available in the phase space by dividing the (volume of the phase space) by ($\eta$). As we shall see later, $\eta$ is equal to $h^3$, where $h$ is Plank's constant.
 
-The distance between the grid point $(n_x, n_y, n_z)$ and the origin is $\sqrt{n_x^2 + n_y^2 + n_z^2}$. Note that we only consider positive intergers for $n_x$, $n_y$, and $n_z$. Then, we obtain $N(E)$ as
+```mermaid
+graph LR
+subgraph Density of states in 3D
+A["D(E) = V(phase space) &divide; h&sup3;"]
+B["V(phase space) = V(real space) &times; V(momentum space)"]
+end
+```
+
+In this section, we calculate the volume of the phase space for the state with energy $\epsilon$ to $\epsilon + d\epsilon$, and divid this volume by $\eta$ to get the density of states, $D(\epsilon)$. 
+Let us consider a free particle with energy $\epsilon = \frac{p^2}{2m}$ moving in 3D space of volume $V$. Since $\epsilon$ does not depend on $\rm \bf{q}$, the avilable real space volume simply becomes $V$. On the other hand, we need to consider the $p$-dependence of $\epsilon = p^2 / 2m$ for the momentum space volume. The volume of the spherical shell of radius $p$ to $p + dp$ is $4 \pi p^2 dp$ in the momentum space. Using $d\epsilon = \frac{p}{m}dp$, we obtain the density of states as 
 $$
-N(E) = \frac{1}{8}\frac{4\pi}{3}\sqrt{\frac{2mEL^2}{\pi^2 \hbar^2}}^3=\frac{L^3}{6\pi^2\hbar^3}(2m)^{3/2}E^{3/2}
+D(\epsilon)d\epsilon = \frac{V}{\eta}\cdot 4\pi p^2 dp = \frac{4\sqrt{2}\pi Vm^{3/2}}{\eta}\epsilon^{1/2}d\epsilon.  \tag{6}
 $$
-Finally, we reproduce Eq. (1) by taking the derivative of $N(E)$ with respect to $E$.
+By comparing Eqs. (5) and (6), we see that $\eta$ is equal to $h^3$.
+
+## Phase space (k, q)
+
+We can reproduce the previous result Eq. (6) by considering the wavenumber space instead of the momentum space in a similar manner using $p = \hbar k$.
