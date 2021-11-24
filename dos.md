@@ -47,8 +47,8 @@ Another approach is possible to obtain the density of states for the system we c
 ```mermaid
 graph LR
 subgraph Density of states in 3D
-A["N(E) = V(phase space;　&epsilon; < E) &divide; h&sup3;"]
-B["V(phase space; &epsilon; < E) = V(real space; &epsilon; < E) &times; V(momentum space; &epsilon; < E)"]
+A["N(E) = V(phase space;　&epsilon; &le; E) &divide; h&sup3;"]
+B["V(phase space; &epsilon; &le; E) = V(real space; &epsilon; &le; E) &times; V(momentum space; &epsilon; &le; E)"]
 C["D(E) = dN(E)/dE"]
 end
 ```
