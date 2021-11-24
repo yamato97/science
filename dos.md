@@ -42,7 +42,7 @@ $$
 
 ## Phase space (p, q)
 
-Another approach is possible to obtain the density of states for the system we considered above based on the phase space volume, which is represented as the product of (real space volume) and (momentum space volume). Due to the uncertainty principle, we are not allowed to tell the exact location of the state, $(p, q)$, in the phase space. Let us assume that this resolution limit be $\eta$, where $\eta$ represents the volume of the smallest cell "visible" in the phase space. Then, we can count the number of possible states available in the phase space by dividing the (volume of the phase space) by ($\eta$). As we shall see later, $\eta$ is equal to $h^3$, where $h$ is Plank's constant.
+Another approach is possible to obtain the density of states for the system we considered above based on the phase space volume, which is represented as the product of (real space volume) and (momentum space volume). Due to the uncertainty principle, we are not allowed to tell the exact location of the state, $(p, q)$, in the phase space. Let us assume that this resolution limit be $\eta$, where $\eta$ represents the volume of the smallest cell specifiable in the phase space. Then, we can count the number of possible states available in the phase space by dividing the (volume of the phase space) by ($\eta$). As we shall see later, $\eta$ is equal to $h^3$, where $h$ is Plank's constant.
 
 ```mermaid
 graph LR
