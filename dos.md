@@ -42,7 +42,7 @@ $$
 
 ## Phase space (p, q)
 
-Another approach is possible to obtain the density of states for the system we considered above based on the phase space volume, which is represented as the product of (real space volume) and (momentum space volume). Due to the uncertainty principle, we are not allowed to tell the exact location of the state, $(p, q)$, in the phase space. Let us assume that this resolution limit be $\eta$, where $\eta$ represents the volume of the smallest cell specifiable in the phase space. Then, we can count the number of possible states available in the phase space by dividing the (volume of the phase space) by ($\eta$). As we shall see later, $\eta$ is equal to $h^3$, where $h$ is Plank's constant.
+Another approach is possible to obtain the density of states for the system we considered above based on the phase space volume, which is represented as the product of (real space volume) and (momentum space volume). Due to the uncertainty principle, we are not allowed to tell the exact location of the state, $(p, q)$, in the phase space. Let us assume that this resolution limit be $\eta_{(p,q)}$, where $\eta_{(p,q)}$ represents the volume of the smallest cell specifiable in the phase space. Then, we can count the number of possible states available in the phase space by dividing the (volume of the phase space) by ($\eta_{(p,q)}$). As we shall see later, $\eta_{(p,q)}$ is equal to $h^3$, where $h$ is Plank's constant.If you consider the wavenumber space, instead of the momentum space, then the volume of the smallest cell in the (k, q)-space is $\eta_{(k,q)}$ becomes $(2\pi)^3$ because $\rm{\bf{p}}=\hbar \rm\bf{k}$. 
 
 ```mermaid
 graph LR

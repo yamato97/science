@@ -7,8 +7,8 @@
 #### [Thermodynamics functions](thermodynamic_functions.md)
 
 #### [Density of states](dos.md)
-####  Transport property
-##### [Thermal conductivity](thermal_conductivity.md)
+#### [Thermal conductivity](thermal_conductivity.md)
+
 
 ###  Fluid Mechanics
 #### [Navier Stokes equation](navier_stokes_equation.md)
@@ -17,7 +17,7 @@
 
 ## Biophysics
 ### [Protein allostery](protein_allostery.md)
-###  Data-driven biophysics
+### Data-driven biophysics
 
 ## Computer
 ###  Quantum computing
