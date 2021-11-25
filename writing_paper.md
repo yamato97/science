@@ -5,7 +5,6 @@ mermaid: true
 
 # writing paper
 
-
 ## Introduction
 Productive environment for writing paper is very important for every scientist. Nowadays, we usually work with many coworkers with different backgrounds from different locations. Therefore, we need to exchange our ideas/comments/opinions in an efficient manner. For instance, *GitHub* provides an ideal solution for this purpose. 
 
@@ -13,7 +12,7 @@ For writing papers, we usually use documentation tools such as MS-WORD, Latex, e
 
 Markdown text is getting more and more popular especially among data scientists and computer programmers. Recently, there are so many useful Markdown editors, such as *Visual Studio code*, *Typora*, etc... available for us. Here I will show my recent effort to write scientific paper with *VS code* with using Citation Manager *Zotero*. 
 
-Here I show our attempt to write scientific paper with markdown text and share relevant materials via GitHub with your coworkers (see below). 
+Here I show our attempt to write scientific paper with markdown text and share relevant materials via GitHub with your coworkers (see below). Note that you can visit clickable links indicated by red boxes below.
 
 ```mermaid
 graph TB
