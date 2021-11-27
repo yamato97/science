@@ -10,6 +10,13 @@ Nov. 23, 2021
 
 T. Yamato@NU
 
+## Particle under periodic boundary condition
+
+Let us consider a free particle under periodic boundary condition in one-dimensional space, $x=[0, L]$. If we assume the wavefunction of the form, $\psi_k (x) = Ce^{ikx}$, where $C$ is constant, then $\psi(x) = \psi(x+L)$. Accordingly, we obtain:
+$$
+k = \left(\frac{2\pi}{L}\right)n, \; (n=0, \pm1, \pm2, \cdots ),
+$$
+and we see that the state space $n = \frac{L}{2\pi}k$, which is easily extended to three-dimensional state space as $(n_x, n_y, n_z) = \left( \frac{L}{2\pi} \right)^3 (k_x, k_y, k_z)$. Consequently, we can represent the summation over all discrete states in the 3D state space in terms as integral with respect to wavenumber vector $\rm{\bf k}$: $\sum_{\rm\bf{k}_n} \rightarrow \left(\frac{L}{2\pi} \right)^3 \int d{\rm\bf k}$.
 ## Particle in a square well
 
 Let us consider a particle confined in one-dimensional space, $x=[0, L]$, with an infinite square well potential. 
