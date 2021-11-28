@@ -13,9 +13,9 @@ For writing papers, we usually use documentation tools such as MS-WORD, Latex, e
 Markdown text is getting more and more popular especially among data scientists and computer programmers. Recently, there are so many useful Markdown editors, such as *Visual Studio code*, *Typora*, etc... available for us. Here I will show my recent effort to write scientific paper with *VS code* with using Citation Manager *Zotero* and share relevant materials via GitHub with your coworkers (see below). Note that you can visit clickable links indicated by red boxes below.
 
 For japanese readers, the following links would be extremely helpful. 
-[exporting bibliography from zotero using pandoc (part I)](https://zenn.dev/sky_y/articles/pandoc-advent-2020-bib1)
+- [exporting bibliography from zotero using pandoc (part I)](https://zenn.dev/sky_y/articles/pandoc-advent-2020-bib1)
 
-[exporting bibliography form zotero using pandoc (part II)](https://zenn.dev/sky_y/articles/pandoc-advent-2020-bib2)
+- [exporting bibliography form zotero using pandoc (part II)](https://zenn.dev/sky_y/articles/pandoc-advent-2020-bib2)
 
 
 ```mermaid
