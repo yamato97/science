@@ -156,5 +156,5 @@ pandoc test.md -o test.pdf --citeproc --bibliography=mdbibexport.bib --csl=natur
 ```
 
 Here's a list of relevant files.
-[nature.csl](nature.csl)
-[test.pdf](test.pdf)
+- [nature.csl](nature.csl)
+- [test.pdf](test.pdf)
