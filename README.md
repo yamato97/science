@@ -16,9 +16,9 @@
 #### [Born model](Born_model.md)
 
 ## Biophysics
-### [Protein allostery](protein_allostery.md)
+#### [Protein allostery](protein_allostery.md)
 
-### [](ThermalConductivity and ThermalDiffusivity)(ThermalConductivity_ThermalDiffusivity.md)
+#### [ThermalConductivity and ThermalDiffusivity](ThermalConductivity_ThermalDiffusivity.md)
 ### Data-driven biophysics
 
 ## Computer
