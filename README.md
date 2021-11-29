@@ -17,6 +17,8 @@
 
 ## Biophysics
 ### [Protein allostery](protein_allostery.md)
+
+### [](ThermalConductivity and ThermalDiffusivity)(ThermalConductivity_ThermalDiffusivity.md)
 ### Data-driven biophysics
 
 ## Computer
