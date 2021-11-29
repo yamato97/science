@@ -1,3 +1,7 @@
+---
+mathjax: true
+---
+
 # Thermal conductivity vs thermal diffusivity
 
 The thermal diffusivity, $\alpha \rm[m^2 \cdot s^{-1}]$, is related with thermal conductivity, $\lambda \rm{[W \cdot m^{-1} \cdot K^{-1}]}$ throught the following equation:
