@@ -1,6 +1,8 @@
+---
+toc: true
+---
 # science
 
-{:toc}
 ## Physics
 
 ### Statistical Mechanics
