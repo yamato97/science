@@ -1,3 +1,7 @@
+---
+mathjax: true
+---
+
 # Bernoulli number and zeta function
 
 ## Bernoulli number
