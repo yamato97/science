@@ -7,6 +7,7 @@
       - [Thermodynamics functions](#thermodynamics-functions)
       - [Density of states](#density-of-states)
       - [Thermal conductivity](#thermal-conductivity)
+      - [Bernoulli number and Zeta function](#bernoulli-number-and-zeta-function)
     - [Fluid Mechanics](#fluid-mechanics)
       - [Navier Stokes equation](#navier-stokes-equation)
     - [Electomagnatism](#electomagnatism)
@@ -33,6 +34,7 @@
 #### [Density of states](dos.md)
 #### [Thermal conductivity](thermal_conductivity.md)
 
+#### [Bernoulli number and Zeta function](Bernoulli_and_zeta_func.md)
 
 ###  Fluid Mechanics
 #### [Navier Stokes equation](navier_stokes_equation.md)
