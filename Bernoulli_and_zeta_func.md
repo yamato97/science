@@ -131,3 +131,22 @@ The Euler's formula for the zeta function is:
 $$
 \zeta(2m) = \frac{(-1)^{m-1}(2\pi)^{2m}}{2 \cdot (2m)!} B_{2m} \; (m=1, 2, 3, \cdots) \tag{22}
 $$ 
+
+## Generalized Zeta Function
+Let's think about the following integral
+$$
+\begin{aligned}
+\int_0^\infty \frac{x^{n-1}}{z^{-1}e^x - 1}dx &= \int_0^\infty x^{n-1}ze^{-x} \sum_{k=0}^{\infty}(ze^{-x})^k dx \\
+&= \sum_{0}^{\infty} \int_0^\infty t^{n-1}e^{-t} dt \frac{z^{k+1}}{(k+1)^n} \\
+&= \Gamma(n) \sum_{k=1}^{\infty} \frac{z^k}{k^n}, \; (t \equiv (k+1)x)
+\end{aligned} \tag{23}
+$$
+If we defined $g_n(z)$ as
+$$
+g_n(z) \equiv \sum_{k=1}^{\infty} \frac{z^k}{k^n}
+$$
+, then 
+$$
+g_n(z) = \frac{1}{\Gamma(n)} \int_0^\infty \frac{x^{n-1}}{z^{-1}e^x - 1}dx \tag{24}
+$$
+and $g_n(1) = \zeta(n)$.
