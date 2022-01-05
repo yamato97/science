@@ -97,7 +97,7 @@ $$
 
 By taking the logarithm of $\sin z / z$, we obtain
 $$
-\log (\sin z) - \log z = \sum_{k=1}^{\infty} \left(1 - \frac{z^2}{k^2 \pi^2} \right) \tag{17}
+\log (\sin z) - \log z = \sum_{k=1}^{\infty} \log \left(1 - \frac{z^2}{k^2 \pi^2} \right) \tag{17}
 $$
 Then, by taking the derivative of (17) with respect to $z$, we obtain
 $$
