@@ -27,7 +27,7 @@ Takahisa YAMATO @ NU
     - [CURP (CURrent calculations for Proteins)](#curp-current-calculations-for-proteins-1)
 
 ## INTRODUCTION
-
+Welcome to "BIOINFOMATICS @ Nagoya City University". In my couple of lectures on Jan 17, and 24, 2022, I will introduce basic theory and application on the "Biomolecular structure and functions studied by molecular simulation techniques". In particular, I would like to emphasize the impact of "Data Science" on this field. Today, the influence of "Data Science", can be recognized not only on the scientific field but also many aspects in daily life. As a biophysisist using computational tools everyday, I keenly aware how useful it is in finding "important message that is underlying beneath the simulation/calculation data" and in visualizing those data in a "really effective way that is easy to understand to everyone at a glance". 
 ## HIGHLIGHTS
 ### [Making it Rain: Cloud-Based Molecular Simulation for Everyone](https://github.com/pablo-arantes/Making-it-rain/tree/v1.01)
 #### [Reference](https://doi.org/10.1021/acs.jcim.1c00998)
