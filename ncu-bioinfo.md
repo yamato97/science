@@ -6,7 +6,7 @@ Takahisa YAMATO @ NU
   - [INTRODUCTION](#introduction)
   - [HIGHLIGHTS](#highlights)
     - [Making it Rain: Cloud-Based Molecular Simulation for Everyone](#making-it-rain-cloud-based-molecular-simulation-for-everyone)
-    - [Making it Rain: List of applications](#making-it-rain-list-of-applications)
+    - [Making it Rain: Open applications in colab](#making-it-rain-open-applications-in-colab)
       - [Reference](#reference)
     - [AlphaFold Colab](#alphafold-colab)
     - [ColabFold - Making protein folding accessible to all](#colabfold---making-protein-folding-accessible-to-all)
@@ -33,7 +33,7 @@ Hello everyone! Welcome to "BIOINFOMATICS @ Nagoya City University". In my coupl
 One of a good example outstanding *Data Scientific Tools in Molecular Bioscience* is "AphaFold" which provides a stat-of-the-art computational tool to predict three-dimensional structure from a given amino acid sequence. For several decades the protein folding problem is one of the most difficult problems in life science. As accumulations of available structural data of biomolecules, however, we will be able to learn something new from a numerous numbers of the entries of the list of correspondence between amino acid sequence and its three dimensional structure. 
 ## HIGHLIGHTS
 ### [Making it Rain: Cloud-Based Molecular Simulation for Everyone](https://github.com/pablo-arantes/Making-it-rain/tree/v1.01)
-### [Making it Rain: List of applications](https://github.com/pablo-arantes/making-it-rain)
+### [Making it Rain: Open applications in colab](https://github.com/pablo-arantes/making-it-rain)
 #### [Reference](https://doi.org/10.1021/acs.jcim.1c00998)
 
 ### [AlphaFold Colab](https://colab.research.google.com/github/deepmind/alphafold/blob/main/notebooks/AlphaFold.ipynb)
