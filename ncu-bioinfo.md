@@ -26,8 +26,6 @@ Takahisa YAMATO @ NU
   - [SIMULATION TRAJECTORY ANALYSIS](#simulation-trajectory-analysis)
     - [Principal Component Analysis I](#principal-component-analysis-i)
     - [Principal Component Analysis II](#principal-component-analysis-ii)
-    - [Principal Component Analysis I](#principal-component-analysis-i-1)
-    - [[Principal Component Analysis II]](#principal-component-analysis-ii-1)
   - [MOLECULAR MODELING](#molecular-modeling)
     - [Modeller](#modeller)
   - [MOLECULAR PROPERTY ANALYSIS](#molecular-property-analysis)
@@ -73,10 +71,6 @@ One of a good example outstanding *Data Scientific Tools in Molecular Bioscience
 ### [Principal Component Analysis I](http://zhenglz.blogspot.com/2019/01/a-step-by-step-tutorial-to-perform-pca.html)
 
 ### [Principal Component Analysis II](http://www3.mpibpc.mpg.de/groups/de_groot/compbio/p4/index.html) 
-
-### [Principal Component Analysis I](http://zhenglz.blogspot.com/2019/01/a-step-by-step-tutorial-to-perform-pca.html)
-
-### [Principal Component Analysis II]
 
 ## MOLECULAR MODELING
 ### [Modeller](https://salilab.org/modeller)
