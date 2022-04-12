@@ -26,6 +26,7 @@ Takahisa YAMATO @ NU
   - [SIMULATION TOOLS](#simulation-tools)
     - [CHARMM-GUI](#charmm-gui)
       - [CHARMM-GUI nanodisc](#charmm-gui-nanodisc)
+      - [CHARMM-GUI nanodisc paper](#charmm-gui-nanodisc-paper)
   - [SIMULATION TRAJECTORY ANALYSIS](#simulation-trajectory-analysis)
     - [Principal Component Analysis I](#principal-component-analysis-i)
     - [Principal Component Analysis II](#principal-component-analysis-ii)
@@ -74,6 +75,8 @@ One of a good example outstanding *Data Scientific Tools in Molecular Bioscience
 ### [CHARMM-GUI](https://charmm-gui.org)
 
 #### [CHARMM-GUI nanodisc](https://charmm-gui.org/input/nanodisc)
+
+#### [CHARMM-GUI nanodisc paper](https://doi.org/10.1002/jcc.25773)
 ## SIMULATION TRAJECTORY ANALYSIS
 
 ### [Principal Component Analysis I](http://zhenglz.blogspot.com/2019/01/a-step-by-step-tutorial-to-perform-pca.html)
