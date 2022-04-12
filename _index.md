@@ -21,6 +21,7 @@ bookCollapseSection: true
 ###  Data-driven biophysics
 
 ## Computer
+### [Programming](programming)
 ###  Quantum computing
 
 ## Mathematics
