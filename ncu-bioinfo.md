@@ -34,6 +34,9 @@ Takahisa YAMATO @ NU
     - [Modeller](#modeller)
   - [MOLECULAR PROPERTY ANALYSIS](#molecular-property-analysis)
     - [CURP (CURrent calculations for Proteins)](#curp-current-calculations-for-proteins-1)
+    - [RING (Residue Interaction Network Generator)](#ring-residue-interaction-network-generator)
+    - [VLDP web server: Solvent accessibility and volume calculation](#vldp-web-server-solvent-accessibility-and-volume-calculation)
+    - [Protein Volume](#protein-volume)
 
 ## INTRODUCTION
 Hello everyone! Welcome to "BIOINFOMATICS @ Nagoya City University". In my couple of lectures on Jan 17, and 24, 2022, I will introduce basic theory and application on the "Biomolecular structure and functions studied by molecular simulation techniques". In particular, I would like to emphasize the impact of *Data Science* on this field. Nowadays its influence of can be recognized not only on the scientific field but also on many aspects in daily life. As a computaitional biophysisist, I keenly aware how useful it is in finding "important message underlying beneath the simulation/calculation/experimental data" and in visualizing those data in a "really effective way that is easy to be grasped by everyone at a glance". Since, Data Science is among a quite new techniques, it is often difficult, even for a professional scientists like me, to find either good textbook or educational materials on Data Science. It is, however, a great chance for all of you, espacially for those interested in computer eriented science, to be involved in the development of any sort of Data Scientific Research in its early stage !!!  To be a *developer* or an *enduser* makes a big difference. 
@@ -89,6 +92,11 @@ One of a good example outstanding *Data Scientific Tools in Molecular Bioscience
 ## MOLECULAR PROPERTY ANALYSIS
 ### [CURP (CURrent calculations for Proteins)](https://www.curp.jp)
 
+### [RING (Residue Interaction Network Generator)](https://ring.biocomputingup.it/submit)
+
+### [VLDP web server: Solvent accessibility and volume calculation](https://www.dsimb.inserm.fr/dsimb_tools/vldp/)
+
+### [Protein Volume](https://gmlab.bio.rpi.edu)
 
 バイオインフォマティクス講義　名古屋市立大学　薬学部 2021
 倭　剛久 (名古屋大学)
