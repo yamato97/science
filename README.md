@@ -18,7 +18,8 @@
       - [BIOINFORMATICS NCU](#bioinformatics-ncu)
     - [Data-driven biophysics](#data-driven-biophysics)
   - [Computer](#computer)
-    - [Quantum computing](#quantum-computing)
+      - [Programming](#programming)
+      - [Quantum computing](#quantum-computing)
   - [Mathematics](#mathematics)
     - [Statistical analysis](#statistical-analysis)
       - [confidence interval](#confidence-interval)
@@ -50,7 +51,9 @@
 ### Data-driven biophysics
 
 ## Computer
-###  Quantum computing
+
+#### [Programming](programming.md)
+####  Quantum computing
 
 ## Mathematics
 
