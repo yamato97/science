@@ -23,6 +23,9 @@ Takahisa YAMATO @ NU
   - [MOLECULAR GRAPHICS / VISUALIZATION](#molecular-graphics--visualization)
     - [PyMOL](#pymol)
     - [UCSF Chimera](#ucsf-chimera)
+  - [SIMULATION TOOLS](#simulation-tools)
+    - [CHARMM-GUI](#charmm-gui)
+      - [CHARMM-GUI nanodisc](#charmm-gui-nanodisc)
   - [SIMULATION TRAJECTORY ANALYSIS](#simulation-trajectory-analysis)
     - [Principal Component Analysis I](#principal-component-analysis-i)
     - [Principal Component Analysis II](#principal-component-analysis-ii)
@@ -66,6 +69,11 @@ One of a good example outstanding *Data Scientific Tools in Molecular Bioscience
 
 ### [UCSF Chimera](http://www.cgl.ucsf.edu/chimera)
 
+## SIMULATION TOOLS
+
+### [CHARMM-GUI](https://charmm-gui.org)
+
+#### [CHARMM-GUI nanodisc](https://charmm-gui.org/input/nanodisc)
 ## SIMULATION TRAJECTORY ANALYSIS
 
 ### [Principal Component Analysis I](http://zhenglz.blogspot.com/2019/01/a-step-by-step-tutorial-to-perform-pca.html)
