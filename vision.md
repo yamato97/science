@@ -16,10 +16,10 @@ mermaid: true
 ## Snake vision
 It is wellknown that the pit organs of rattlesnakes are infrared pinhole cameras of very poor optical quality. However, this sounds paradoxical because these snakes demonstrate outstnding skills as night hunters. van Hemmem and colleagues used neural network model to explain the surprisingly good infrared vision of snakes [4-6].
 ## References
-[1] [Charles Day, Physics Today (2008) 61, 20-22](https://doi.org/10.1063/1.3001855)
-[2] [Shozo Yokoyama, Takashi Tada, Huan Zhang, Lyle Britt, PNAS (2008) 105, 13480-5](https://doi.org/10.1073/pnas.0802426105)
-[3] [H.C. Watanabe, Y. Mori, T. Tada, S. Yokoyama, T. Yamato, Biophysics (2010) 6, 67-8](https://doi.org/10.2142/biophysics.6.67)
-[4] [B. Schwarzschild, Physics Today (2007) 59, 18-](https://doi.org/10.1063/1.2364228)
-[5] [A.B.Sichert, P.Friedel, J.L.van Hemmen, Phys. Rev. Lett. (2006) 97, 068105]
-[6] [倭　剛久, ニューラルネットワークモデルで解き明かす蛇の眼の仕組み, パリティ (2007) 22, 27-31]
+1. [Charles Day, Physics Today (2008) 61, 20-22](https://doi.org/10.1063/1.3001855)
+2. [Shozo Yokoyama, Takashi Tada, Huan Zhang, Lyle Britt, PNAS (2008) 105, 13480-5](https://doi.org/10.1073/pnas.0802426105)
+3. [H.C. Watanabe, Y. Mori, T. Tada, S. Yokoyama, T. Yamato, Biophysics (2010) 6, 67-8](https://doi.org/10.2142/biophysics.6.67)
+4. [B. Schwarzschild, Physics Today (2007) 59, 18-](https://doi.org/10.1063/1.2364228)
+5. [A.B.Sichert, P.Friedel, J.L.van Hemmen, Phys. Rev. Lett. (2006) 97, 068105](https://doi.org/10.1103/PhysRevLett.97.068105)
+6. [倭　剛久, ニューラルネットワークモデルで解き明かす蛇の眼の仕組み, パリティ (2007) 22, 27-31](https://pub.maruzen.co.jp/book_magazine/magazine/parity-back/parity2007/2007_03/703_cont.html)
 
