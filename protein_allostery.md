@@ -2,6 +2,10 @@
 
 ## "Secret of Life" to "2nd Secrets of Life"
 
+In 1953, James Watson and Francis Crick discovered their double helix model of DNA. However, there remains the question how could DNA double helix made up of only four different nucleotides determine the composition of protein polypeptide chain composed of twenty different amino acids?
+
+In 1961 Marshall Nirenberg discovered the first tripret, a codon sequence of three DNA bases that codes for one of the twenty different amino acids. Then, in five years after his discovory, the entire codon table was completed. 
+
 [DNA: The secret of life](https://www.amazon.com/DNA-Secret-James-D-Watson/dp/0375415467) by James D. Watson, A. Berry, Knopf (ISBN: 978-0375415463)
 
 [Allostery: an illustrated definition for the 'second secret of life'](https://doi.org/10.1016/j.tibs.2008.05.009) by A. W. Fenton, in Trends in Biochemical Sciences, 33(9) 420-425 (2008)
