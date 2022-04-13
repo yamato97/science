@@ -17,7 +17,7 @@
       - [ThermalConductivity and ThermalDiffusivity](#thermalconductivity-and-thermaldiffusivity)
       - [BIOINFORMATICS NCU](#bioinformatics-ncu)
       - [Data-driven biophysics](#data-driven-biophysics)
-      - [Vison](#vison)
+      - [Vision](#vision)
   - [Computer](#computer)
       - [Programming](#programming)
       - [Quantum computing](#quantum-computing)
@@ -51,7 +51,7 @@
 #### [BIOINFORMATICS NCU](ncu-bioinfo.md)
 #### Data-driven biophysics
 
-#### [Vison](vison.md)
+#### [Vision](vision.md)
 ## Computer
 
 #### [Programming](programming.md)
