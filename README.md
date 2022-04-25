@@ -65,3 +65,5 @@
 ### Productive environment
 #### [writing paper](writing_paper.md)
 
+### Academic schedule
+#### [Schedule](Schedule.md)
