@@ -26,8 +26,8 @@
       - [confidence interval](#confidence-interval)
     - [Productive environment](#productive-environment)
       - [writing paper](#writing-paper)
-    - [Academic schedule][#Schedule]
-      - [Schedule][#Schedule]
+    - [Academic schedule](#Schedule)
+      - [Schedule](#Schedule)
 
 ## Physics
 
