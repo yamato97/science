@@ -17,7 +17,7 @@ List of URL
 ```mermaid
 gantt
     dateFormat  YYYY-MM-DD
-    title academic meeting 2021
+    title academic meeting 2022-
 
     section TSRC - Protein Dynamics
     meeting (Colorado, USA)    : des1, 2023-07-24, 2023-07-28
