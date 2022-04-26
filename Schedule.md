@@ -20,7 +20,7 @@ gantt
     title academic meeting 2021
 
     section TSRC - Protein Dynamics
-    meeting (Colorado, USA)    : des1, 2022-07-24, 2022-07-28
+    meeting (Colorado, USA)    : des1, 2023-07-24, 2023-07-28
         
     section BSJ annual meeting
     registration      : des1, 2022-04-26, 2022-06-24
