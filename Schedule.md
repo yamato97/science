@@ -11,6 +11,7 @@ List of URL
 - [JPS](https://www.jps.or.jp/english/)
 - [BSJ](https://www2.aeplan.co.jp/bsj2022/index.html)
 - [biomol48](https://sites.google.com/tottori-u.ac.jp/biomol48/)
+- [PSJ Wakate](https://www2.aeplan.co.jp/pssj2022/wakate_koryu.html)
 
 ```mermaid
 gantt
@@ -31,4 +32,8 @@ gantt
     registration        : des1, 2022-04-13, 2022-06-03
     registration (for presentation) : des2, 2022-04-13, 2022-05-13
     meeting (Tottori)    : des3, 2022-06-30, 2022-07-01
+
+    section PSJ Wakate 2nd Meeting
+    registration        : des1, 2022-04-27, 1day
+    meeting             : des2, 2022-06-06, 1day
 ```
