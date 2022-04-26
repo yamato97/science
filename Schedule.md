@@ -10,6 +10,7 @@ List of URL
 
 - [JPS](https://www.jps.or.jp/english/)
 - [BSJ](https://www2.aeplan.co.jp/bsj2022/index.html)
+- [biomol48](https://sites.google.com/tottori-u.ac.jp/biomol48/)
 
 ```mermaid
 gantt
@@ -25,4 +26,9 @@ gantt
     registration	:    des1, 2022-05-17, 2022-06-02
     abstract	        :   des2, 2022-05-17, 2022-07-19
     meeting (Tokyo Tech) :	des3, 2022-09-12, 2022-09-15
+
+    section Biomolecule, 48th meeting
+    registration        : des1, 2022-04-13, 2022-06-03
+    registration (for presentation) : des2, 2022-04-13, 2022-05-13
+    meeting (Tottori)    : des3, 2022-06-30, 2022-07-01
 ```
