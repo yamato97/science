@@ -43,7 +43,7 @@ $$
 $$
 \Delta G = \Delta G_{elec} + \Delta G_{vdw} + \Delta G_{cav}
 $$
-We consider the solute to be a sphere of charge $Z$ with radius $a$ embeded in a medium of dielectric constant $\epsilon$. Then, the electric field produced bythe charge at distance $r > a$ is 
+We consider the solute to be a sphere of charge $Z$ with radius $a$ embeded in a medium of dielectric constant $\epsilon$. Then, the electric field produced by the charge at distance $r > a$ is 
 $$
 \mathbf{E} = \frac{Z}{4 \pi \epsilon} \frac{\mathbf{r}}{r^3}
 $$
