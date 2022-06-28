@@ -12,7 +12,7 @@ July, 21, 2021
 
 ## Born model
 
-In a dielectric medium, a scholar potential  $\phi$ occurs from a charge distribution. We consider the work, $\delta W$, needed to increase the uniform charge density throughout the distribution by $\delta\phi$. This work equals to the increase of energy:
+In a dielectric medium, a scholar potential  $\phi$ occurs from a charge distribution. We consider the work, $\delta W$, needed to increase the uniform charge density throughout the distribution by $\delta\rho$. This work equals to the increase of energy:
 $$
 \delta W = \int_V \phi (\mathbf{r})\delta \rho dV  \tag{1}
 $$
