@@ -6,9 +6,8 @@ mathjax: true
 
 Takahisa Yamato
 
-July, 21, 2021
-
-
+Original: July, 21, 2021
+Last update: June, 28, 2022
 
 ## Born model
 
