@@ -13,7 +13,7 @@
     - [Electomagnatism](#electomagnatism)
       - [Born model](#born-model)
   - [Biophysics](#biophysics)
-      - [はじめての計算生物物理](#begin-comp-biophys)
+      - [Let's begin Computational Biophysics](#begin-comp-biophys)
       - [Protein allostery](#protein-allostery)
       - [ThermalConductivity and ThermalDiffusivity](#thermalconductivity-and-thermaldiffusivity)
       - [BIOINFORMATICS NCU](#bioinformatics-ncu)
@@ -47,7 +47,7 @@
 #### [Born model](Born_model.md)
 
 ## Biophysics
-#### [はじめての計算生物物理](begin_comp_biophys.md)
+#### [Let's begin Computational Biophysics](begin_comp_biophys.md)
 #### [Protein allostery](protein_allostery.md)
 
 #### [ThermalConductivity and ThermalDiffusivity](ThermalConductivity_ThermalDiffusivity.md)
