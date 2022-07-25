@@ -20,10 +20,10 @@
 
 ## SUPPORT
 
-1. [名古屋大学情報基盤センター](https://icts.nagoya-u.ac.jp/ja/center/)
-1. [片桐孝洋 先生] http://www.abc-lib.org/MyHTML/index-j.html
-1. [大島聡史 先生] https://satoshiohshima.wordpress.com
-1. [白井剛 先生] https://sird.nagahama-i-bio.ac.jp/blog/
+1. [名古屋大学情報基盤センター]
+1. [片桐孝洋 先生（名大）]
+1. [大島聡史 先生（名大）]
+1. [白井剛 先生（長浜バイオ大）]
 
 ## 参考
 ### Life
