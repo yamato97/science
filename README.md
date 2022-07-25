@@ -46,6 +46,8 @@
 #### [Born model](Born_model.md)
 
 ## Biophysics
+#### [はじめての計算生物物理](begin_comp_biophys.md)
+
 #### [Protein allostery](protein_allostery.md)
 
 #### [ThermalConductivity and ThermalDiffusivity](ThermalConductivity_ThermalDiffusivity.md)
