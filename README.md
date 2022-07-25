@@ -49,9 +49,7 @@
 ## Biophysics
 #### [Begin computational biophysics](begin_comp_biophys.md)
 #### [Protein allostery](protein_allostery.md)
-
 #### [ThermalConductivity and ThermalDiffusivity](ThermalConductivity_ThermalDiffusivity.md)
-
 #### [BIOINFORMATICS NCU](ncu-bioinfo.md)
 #### Data-driven biophysics
 
