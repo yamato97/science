@@ -14,8 +14,8 @@
 1. [研究室周辺の生協店舗・食堂](https://www.nucoop.jp/coop/coop_332.html#s02)
 1. [夏休み中の生協店舗・営業時間](https://www.nucoop.jp/shop/schedule_202207.html)
 1. カフェ
-  1. [CAFE BLANC](https://www.instagram.com/cafe___blanc/)
-  1. [SEATTLE ESPPRESS 名古屋大学店](http://seattlecoffee.co.jp/?mode=f2)
+  1.1. [CAFE BLANC](https://www.instagram.com/cafe___blanc/)
+  1.1. [SEATTLE ESPPRESS 名古屋大学店](http://seattlecoffee.co.jp/?mode=f2)
 
 - Computer
 
