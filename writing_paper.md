@@ -2,8 +2,10 @@
 mathjax: true
 mermaid: true
 ---
-
 # writing paper
+T. Yamato @ NU
+
+Dec. 05, 2023
 
 ## Introduction
 Productive environment for writing paper is very important for every scientist. Nowadays, we usually work with many coworkers with different backgrounds from different locations. Therefore, we need to exchange our ideas/comments/opinions in an efficient manner. For instance, *GitHub* provides an ideal solution for this purpose. 
