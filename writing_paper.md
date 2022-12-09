@@ -123,6 +123,7 @@ For (japanese) readers, the following link would be helpful for installing Zoter
 Before writing a paper using markdown file, a [YAML header](https://zsmith27.github.io/rmarkdown_crash-course/lesson-4-yaml-headers.html) is quite useful for defining the format of the paper. Here is an example of YAML header for writing a journal article:
 
 ```
+
 ---
 title: Local Thermal Transport in an $\alpha$-helical Protein
 header-includes: # define some settings for math equations
@@ -165,6 +166,7 @@ zotero: # reference citation library
   author-in-text: false # when true, enabled fake author-name-only cites by replacing it with the text of the last names of the authors
   csl-style: apa # pre-fill the style
 ---
+
 ```
 
 ### VS code citation picker for Zotero
