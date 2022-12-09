@@ -125,24 +125,24 @@ Before writing a paper using markdown file, a [YAML header](https://zsmith27.git
 '''
 ---
 title: Local Thermal Transport in an $\alpha$-helical Protein
-header-includes:
+header-includes: # define some settings for math equations
     - \usepackage{bm}
     - \usepackage{textalpha} 
     - \usepackage[left]{lineno}
     - \linenumbers
     - \usepackage{setspace}
     - \doublespacing
-bibliography: 
+bibliography:  # the reference library
     - "paper/bibliography_yamato.bib"
     - "paper/bibliography_ttwang.bib"
 
-csl: "paper/american-chemical-society.csl"
+csl: "paper/american-chemical-society.csl" # citation style
 link-citations: True
 urlcolor: blue
 refcolor: blue
 
 #fontfamily: libertineotf
-output:
+output: # output setting for pdf and docx format
     word_document:
       reference_docx: "template.docx"
       pandoc_args:
@@ -154,11 +154,11 @@ output:
       pandoc_args:
       - --lua-filter=scholarly-metadata.lua
       - --lua-filter=author-info-blocks.lua
-mainfont: Times New Roman
+mainfont: Times New Roman # font style
 sansfont: Linux Biolinum O
-fontsize: 12pt
+fontsize: 12pt 
 spacing: double
-zotero:
+zotero: # reference citation library
   library: <group name> # omitted to use your personal library
   scannable-cite: false # only relevant when you're compiling to scannable-cite .odt
   client: <zotero or jurism> # defaults to zotero
