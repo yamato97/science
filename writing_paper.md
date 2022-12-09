@@ -115,8 +115,58 @@ I was using *Mendeley* before migrating to *Zotero*, the latter of which seems t
 ### Zotero
 For (japanese) readers, the following link would be helpful for installing Zotero and Zotero connector: [tips for Zotero installation](https://guides.lib.fsu.edu/zotero/install/connector) ([japanese tips for Zotero installation](https://www.noguchilabo.com/zotero/#toc6)). Note that MS-WORD plugin, which allows you CWYW, can be installed as well by downloading Zotero software. 
 
+
 ## Editing markdown text
 *VS code* is one of the most popular markdown editors, today. By using *Citation picker for Zotero* extension, you can select a reference from your Zotero library and cite the reference at any position in your paper. Usually, your original reference library, `my_library.bib`, kept by *Zotero* contains huge amount of references. Therefore, it is not suitable to be shared with your coworkers. By using `bibtool` and a perl script, `mdbibexport.pl`, you can extract the references that appear in your markdown file, `paper.md`, and save it as, for instance, `paper.bib`. These two files constitute the essential part of your paper. Also, you will need specify a suitable citation style, which is described in a file with `.csl` extension. For instance, *Nature* citation style is described in `nature.csl`. Finally, you can generate a PDF file, `paper.pdf` from `paper.md`, `paper.bib`, and `<journal>.csl` files, using *Pandoc* document formatter. Of course, you may wish to include links to original figures in the markdown text. You can use, for instance, *draw.io* to create an *svg* file for your paper. A care must be taken however, in such cases. For example, an *svg* figure containing text may not be converted to PDF file by *Pandoc*. Anyway, you can push your paper materials including `paper.md`, `paper.bib`,`<journal>.csl`, and original figure files, to your github repository so that you can share these materials with your coworkers. Of course, you can include the pdf file of your paper as well.
+
+## YAML headers in paper.md
+Before writing a paper using markdown file, a [YAML header](https://zsmith27.github.io/rmarkdown_crash-course/lesson-4-yaml-headers.html) is quite useful for defining the format of the paper. Here is an example of YAML header for writing a journal article:
+
+'''
+---
+title: Local Thermal Transport in an $\alpha$-helical Protein
+header-includes:
+    - \usepackage{bm}
+    - \usepackage{textalpha} 
+    - \usepackage[left]{lineno}
+    - \linenumbers
+    - \usepackage{setspace}
+    - \doublespacing
+bibliography: 
+    - "paper/bibliography_yamato.bib"
+    - "paper/bibliography_ttwang.bib"
+
+csl: "paper/american-chemical-society.csl"
+link-citations: True
+urlcolor: blue
+refcolor: blue
+
+#fontfamily: libertineotf
+output:
+    word_document:
+      reference_docx: "template.docx"
+      pandoc_args:
+      - --lua-filter=scholarly-metadata.lua
+      - --lua-filter=author-info-blocks.lua
+    pdf_document:
+      latex_engine: xelatex
+      keep_tex: true
+      pandoc_args:
+      - --lua-filter=scholarly-metadata.lua
+      - --lua-filter=author-info-blocks.lua
+mainfont: Times New Roman
+sansfont: Linux Biolinum O
+fontsize: 12pt
+spacing: double
+zotero:
+  library: <group name> # omitted to use your personal library
+  scannable-cite: false # only relevant when you're compiling to scannable-cite .odt
+  client: <zotero or jurism> # defaults to zotero
+  author-in-text: false # when true, enabled fake author-name-only cites by replacing it with the text of the last names of the authors
+  csl-style: apa # pre-fill the style
+---
+
+'''
 
 ### VS code citation picker for Zotero
 Mac (Linux/Windows) users can select *citation picker for zotero* by "Command+Shift+P" (Ctrl+Shift+P) while editing your markdown text using VS code. Then you can insert any reference at any position in your text from the reference library maintained in your Zotero environment. The following is an example of markdown text. Two references @Yamato2009 and @yamatoNormalModeAnalysis2019 are cited in the text, and the list of references will be inserted in `References Bibliography` section by using *Pandoc*. 
