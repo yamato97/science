@@ -122,7 +122,7 @@ For (japanese) readers, the following link would be helpful for installing Zoter
 ## YAML headers in paper.md
 Before writing a paper using markdown file, a [YAML header](https://zsmith27.github.io/rmarkdown_crash-course/lesson-4-yaml-headers.html) is quite useful for defining the format of the paper. Here is an example of YAML header for writing a journal article:
 
-'''
+```
 ---
 title: Local Thermal Transport in an $\alpha$-helical Protein
 header-includes: # define some settings for math equations
@@ -165,8 +165,7 @@ zotero: # reference citation library
   author-in-text: false # when true, enabled fake author-name-only cites by replacing it with the text of the last names of the authors
   csl-style: apa # pre-fill the style
 ---
-
-'''
+```
 
 ### VS code citation picker for Zotero
 Mac (Linux/Windows) users can select *citation picker for zotero* by "Command+Shift+P" (Ctrl+Shift+P) while editing your markdown text using VS code. Then you can insert any reference at any position in your text from the reference library maintained in your Zotero environment. The following is an example of markdown text. Two references @Yamato2009 and @yamatoNormalModeAnalysis2019 are cited in the text, and the list of references will be inserted in `References Bibliography` section by using *Pandoc*. 
