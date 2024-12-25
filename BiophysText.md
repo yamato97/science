@@ -13,5 +13,7 @@
 ### 問題2-1
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/10mf_Er5uJR6gu0-tpShAHEbCdevg_0FL?usp=sharing)
 ### 問題2-2
+#### 前半
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ArmxTEOI-wjOI5rb5ENKZjaorag8fuSV?usp=sharing)
-
+#### 後半
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1xKOH8q40gM0fjmrTZ_JKAH5r4aie7DH7?usp=sharing)
