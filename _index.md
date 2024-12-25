@@ -17,6 +17,7 @@ bookCollapseSection: true
 #### [Born model](born_model)
 
 ## Biophysics
+### [Solutions Biophysics Text](BiophysText)
 ### [Protein allostery](protein_allostery)
 ###  Data-driven biophysics
 
