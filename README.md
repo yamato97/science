@@ -13,6 +13,7 @@
     - [Electomagnatism](#electomagnatism)
       - [Born model](#born-model)
   - [Biophysics](#biophysics)
+      - [Solutions BiophysText](#BiophysText)
       - [Begin computational biophysics](#begin-comp-biophys)
       - [Protein allostery](#protein-allostery)
       - [ThermalConductivity and ThermalDiffusivity](#thermalconductivity-and-thermaldiffusivity)
