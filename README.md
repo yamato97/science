@@ -57,6 +57,7 @@
 
 #### [Vision](vision.md)
 ## Computer
+#### [Simulation tutorial](simulation_tutorial.md)
 
 #### [Programming](programming.md)
 ####  Quantum computing
