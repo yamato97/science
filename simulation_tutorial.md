@@ -31,3 +31,6 @@ Google colabの利用にはいくつかの制限があります。たとえば�
 ## リンク
 ### 第１回：2025年4月14日
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1hl4ovUVwZoD3oDMU95UYzeS4hr7Gm5Sw?usp=sharing)
+
+### 第２回：2025年4月21日
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1QNavOGD8r3VQqhcZ-yBFZb6_JNpK0pCs?usp=drive_link)
