@@ -53,3 +53,8 @@ Google colabの利用にはいくつかの制限があります。たとえば�
 ### 第7 回：2025年6月02日
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1y7mUU_z_f6u1mpH9w95FljxbrRGuPjkP?usp=sharing)
 
+### 第8 回：2025年6月09日
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1fyaY5fz9CQzhHQRhRXAP-KqrxE_iGszN?usp=sharing)
+
+### 期末レポート課題：2025年6月09日
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1cNQoUbxYbH7tK3BdbgvgC1y9etQNPlJr?usp=sharing)
