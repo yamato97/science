@@ -58,3 +58,13 @@ Google colabの利用にはいくつかの制限があります。たとえば�
 
 ### 期末レポート課題：2025年6月09日
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1cNQoUbxYbH7tK3BdbgvgC1y9etQNPlJr?usp=sharing)
+
+### 第９ 回：2025年6月16日
+1. Normal Mode Analysis
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1WbF7I9C67ac9etqnt3TYOPMJvNmYGFnV?usp=sharing)
+
+2. Molecular Dynamics Simulation; [Arantes P.R. et al. J. Chem. Inf. Model. (2021) 61, 4852-6](https://doi.org/10.1021/acs.jcim.1c00998)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1KAF-nYH2HA3DsFhOA54HRkkEi-2X9XZc?usp=sharing)
+
+3. AlphaFold2; [Mirdita M, et al. Nature Methods, (2022) 19, 679-682](https://doi.org/10.1038/s41592-022-01488-1)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1X5BwpY3R7g4PGF1Fj80RcmS2Tr_ij1f-?usp=sharing)
