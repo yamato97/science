@@ -34,3 +34,5 @@ Google colabの利用にはいくつかの制限があります。たとえば�
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1t3facJgBnNuLZHyYH-abn0j8eWLy3u8O?usp=sharing)
 ### 問題10-1
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/10zsyH0pbOslTije_au4w9T92fGdRBjQK?usp=sharing)
+### 問題10-3
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1A8veoL-VvIJd8d_Xxpm4qF6-CVVoIeW3?usp=sharing)
